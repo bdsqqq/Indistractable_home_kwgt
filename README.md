@@ -1,6 +1,6 @@
 # Indistractable home kwgt
 
-[Preview](./widget_preview.jpg)
+[Preview](./img/widget_preview.jpg)
 
 
 This is a Kustom implementation of some widgets from the [Indistractable launcher](https://www.indistractable.xyz/).
